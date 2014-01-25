@@ -1,0 +1,16 @@
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\bin\Debug\Assgn5_Fall12.exe
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\bin\Debug\Assgn5_Fall12.pdb
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.exe
+C:\Users\obeezy\Desktop\Assgn5_Fall12\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.pdb
+C:\Users\obeezy\Desktop\CS3310 File Structures\Assgn5_Fall12\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.exe
+C:\Users\obeezy\Desktop\CS3310 File Structures\Assgn5_Fall12\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\obj\x86\Debug\Assgn5_Fall12.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\bin\Debug\Assgn5_Fall12.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\bin\Debug\Assgn5_Fall12.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\bin\Debug\SharedClasses.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\bin\Debug\SharedClasses.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn5_Fall2012\Assgn5_Fall12\obj\x86\Debug\SetupUtility.csprojResolveAssemblyReference.cache
